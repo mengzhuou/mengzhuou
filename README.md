@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mengzhuou&show_icons=true&theme=gruvbox_light&hide_border=true" alt="mengzhuou" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mengzhuou&theme=highcontrast&hide_border=true" alt="mengzhuou" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzhuou&hide_progress=true)
